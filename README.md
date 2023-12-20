@@ -20,3 +20,4 @@ Register the code with Cloud Functions the following command. You need to create
 
 - Annotation tool: use /apps-script code for running the annotation tool with Google Apps Script
 
+#test
